@@ -17,6 +17,19 @@ const Services = () => {
       gradient: 'from-cyan-500 to-blue-600',
     },
     {
+      icon: '📈',
+      title: 'Influencer Marketing',
+      description:
+        'Grow your online presence with data-driven digital marketing strategies. From SEO to social media management, we help you reach your target audience and achieve your business goals.',
+      features: [
+        'Influencer Marketing/ Social Media Marketing',
+        'PPC Advertising',
+        'Analytics & Reporting',
+        'SEO & Content Strategy',
+      ],
+      gradient: 'from-blue-500 to-cyan-600',
+    },
+    {
       icon: '📱',
       title: 'Mobile App Development',
       description:
@@ -41,20 +54,6 @@ const Services = () => {
         'Machine Learning Solutions',
       ],
       gradient: 'from-pink-500 to-red-600',
-    },
-    {
-      icon: '📈',
-      title: 'Digital Marketing',
-      description:
-        'Grow your online presence with data-driven digital marketing strategies. From SEO to social media management, we help you reach your target audience and achieve your business goals.',
-      features: [
-        'SEO & Content Strategy',
-        'Influencer Marketing/ Social Media Marketing',
-        'Insta Bio',
-        'PPC Advertising',
-        'Analytics & Reporting',
-      ],
-      gradient: 'from-blue-500 to-cyan-600',
     },
     {
       icon: '💡',
