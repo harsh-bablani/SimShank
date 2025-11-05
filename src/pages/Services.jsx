@@ -18,13 +18,13 @@ const Services = () => {
     },
     {
       icon: '📈',
-      title: 'Influencer Marketing',
+      title: 'Digital Marketing',
       description:
         'Grow your online presence with data-driven digital marketing strategies. From SEO to social media management, we help you reach your target audience and achieve your business goals.',
       features: [
-        'Influencer Marketing/ Social Media Marketing',
-        'PPC Advertising',
-        'Analytics & Reporting',
+        'Influencer Marketing',
+        'Social Media Management',
+        'Meta Ads',
         'SEO & Content Strategy',
       ],
       gradient: 'from-blue-500 to-cyan-600',
