@@ -49,7 +49,8 @@ const Services = () => {
         'Grow your online presence with data-driven digital marketing strategies. From SEO to social media management, we help you reach your target audience and achieve your business goals.',
       features: [
         'SEO & Content Strategy',
-        'Social Media Management',
+        'Influencer Marketing/ Social Media Marketing',
+        'Insta Bio',
         'PPC Advertising',
         'Analytics & Reporting',
       ],
